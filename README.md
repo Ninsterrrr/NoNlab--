@@ -32,7 +32,7 @@
 ### 下载
 点击下方链接下载最新版：
 
-- **GitHub 开源地址**：[https://github.com/Ninsterrrr/NoNlab](https://github.com/Ninsterrrr/NoNlab)
+- **GitHub 开源地址**：[https://github.com/Ninsterrrr/NoNlab--](https://github.com/Ninsterrrr/NoNlab--)
 - **Booth 页面**：[https://ninster.booth.pm/](https://ninster.booth.pm/)
 
 ### 安装
@@ -116,7 +116,7 @@
 ## 反馈与支持 (Feedback & Support)
 
 - ByNinster-NoNlab
-- GitHub：[https://github.com/Ninsterrrr/NoNlab](https://github.com/Ninsterrrr/NoNlab)
+- GitHub：[https://github.com/Ninsterrrr/NoNlab--](https://github.com/Ninsterrrr/NoNlab--)
 - 纯自学非专业，若有问题欢迎指出，但请不要骂我(QAQ)
 ---
 
