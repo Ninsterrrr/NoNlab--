@@ -47,6 +47,8 @@
 
 ## 使用方法 (Usage)
 
+教程视频：https://b23.tv/fMmoE8n
+
 0. 提示：本插件自带扫描UV岛和网格数据打印的调试功能，位于 顶部菜单 `NoNlab` -> `MeshOptimizer`-> `调试`
 
 1. 打开工具：点击 Unity 顶部菜单 `NoNlab` -> `三角面数处理模块`。
@@ -118,6 +120,7 @@
 - ByNinster-NoNlab
 - GitHub：[https://github.com/Ninsterrrr/NoNlab--](https://github.com/Ninsterrrr/NoNlab--)
 - 纯自学非专业，若有问题欢迎指出，但请不要骂我(QAQ)
+- 教程视频：https://b23.tv/fMmoE8n
 ---
 
 ## 许可证 (License)
